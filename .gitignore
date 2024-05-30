@@ -10,7 +10,7 @@ pyvenv.cfg
 share
 ttx.1
 .idea
-\Scripts
+Scripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
